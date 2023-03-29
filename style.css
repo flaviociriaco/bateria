@@ -26,7 +26,7 @@ h1 {
 }
 
 .key {
-    width: 80px;
+    width: 90px;
     height: 80px;
     border: 2px solid #fff;
     color: #fff;
@@ -42,11 +42,12 @@ h1 {
     color: #FF0;
 }
 
-.compose #input {
+.composer #input {
     width: 100%;
     outline: none;
     font-size: 17px;
     padding: 10px 15px;
+    margin-top: 10px;
 }
 
 .composer button {
