@@ -40,3 +40,8 @@ function playComposition(songArray) {
     wait += 250;
   }
 }
+
+function reset() {
+  const inputReset = document.querySelector("#input");
+  inputReset.value = "";
+}
